@@ -27,8 +27,6 @@ Pacotes comprovadamente responsáveis por coletar e transmitir seus dados para s
 | `com.miui.misightservice` | Coleta de dados em segundo plano da Xiaomi |
 | `com.miui.msa.global` | Sistema de anúncios e agregação de dados do MIUI |
 
-> ¹ Pesquisa por [@fs0c131y](https://github.com/fs0c131y)
-
 ### Serviços do Facebook pré-instalados
 
 Instalados pela Xiaomi a nível de sistema. Rastreiam o usuário mesmo sem conta no Facebook.
